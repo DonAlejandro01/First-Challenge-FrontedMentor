@@ -26,7 +26,8 @@ section {
     justify-content: center;
     align-self: center;
     align-items: center;
-    width: 45vw;
+    width: 40vw;
+    max-width: 40vw;
     height: auto;
     
     
